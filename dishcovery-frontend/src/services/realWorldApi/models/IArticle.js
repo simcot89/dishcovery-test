@@ -1,0 +1,1 @@
+//# sourceMappingURL=IArticle.js.map
